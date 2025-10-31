@@ -1,0 +1,272 @@
+[
+  {
+    "text": "根据合同法第五百六十三条条规定合同双方应当遵守约定 变体1",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 15
+  },
+  {
+    "text": "根据合同法第四百六十九条条规定用人单位应当遵守约定 变体2",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 14
+  },
+  {
+    "text": "根据合同法第五百六十三条条规定劳动者应当履行义务 变体3",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 13
+  },
+  {
+    "text": "根据合同法第四百六十九条条规定用人单位应当提供保障 变体4",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 14
+  },
+  {
+    "text": "根据合同法第五百六十三条条规定劳动者应当遵守约定 变体5",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 14
+  },
+  {
+    "text": "合同双方应当按照约定遵守约定否则承担法律责任 变体1",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 13
+  },
+  {
+    "text": "合同双方应当按照约定遵守约定否则承担法律责任 变体2",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 13
+  },
+  {
+    "text": "合同双方应当按照约定支付费用否则承担违约责任 变体3",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 13
+  },
+  {
+    "text": "合同双方应当按照约定遵守约定否则承担赔偿责任 变体4",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 14
+  },
+  {
+    "text": "合同双方应当按照约定履行义务否则承担违约责任 变体5",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "在知识产权保护情况下合同无效 变体1",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "在知识产权保护情况下合同无效 变体2",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "在合同履行情况下合同可撤销 变体3",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 11
+  },
+  {
+    "text": "在知识产权保护情况下合同有效 变体4",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "在知识产权保护情况下合同无效 变体5",
+    "label": 0,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "用人单位应当为劳动者履行义务违反者承担违约责任 变体1",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 11
+  },
+  {
+    "text": "用人单位应当为劳动者提供保障违反者承担赔偿责任 变体2",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 13
+  },
+  {
+    "text": "用人单位应当为劳动者支付费用违反者承担违约责任 变体3",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "用人单位应当为劳动者支付费用违反者承担法律责任 变体4",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "用人单位应当为劳动者履行义务违反者承担法律责任 变体5",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 11
+  },
+  {
+    "text": "根据劳动法规定劳动者享有合法权益 变体1",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 9
+  },
+  {
+    "text": "根据劳动法规定合同双方享有合法权益 变体2",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "根据劳动法规定当事人享有基本权利 变体3",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 9
+  },
+  {
+    "text": "根据劳动法规定合同双方享有基本权利 变体4",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "根据劳动法规定劳动者享有法定权利 变体5",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "在合同履行情况下劳动者可以提供保障 变体1",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "在合同履行情况下劳动者可以履行义务 变体2",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 11
+  },
+  {
+    "text": "在知识产权保护情况下劳动者可以提供保障 变体3",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "在合同履行情况下劳动者可以支付费用 变体4",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "在合同履行情况下劳动者可以遵守约定 变体5",
+    "label": 1,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "侵犯他人著作权权的应当承担赔偿责任 变体1",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "侵犯他人商标权的应当承担违约责任 变体2",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "侵犯他人专利权的应当承担违约责任 变体3",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "侵犯他人商标权的应当承担法律责任 变体4",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "侵犯他人著作权权的应当承担违约责任 变体5",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 11
+  },
+  {
+    "text": "根据著作权法规定用人单位享有合法权益 变体1",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 9
+  },
+  {
+    "text": "根据著作权法规定当事人享有基本权利 变体2",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 9
+  },
+  {
+    "text": "根据商标法规定劳动者享有法定权利 变体3",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "根据商标法规定合同双方享有基本权利 变体4",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 10
+  },
+  {
+    "text": "根据商标法规定当事人享有基本权利 变体5",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 9
+  },
+  {
+    "text": "在劳动关系情况下著作权权受到保护 变体1",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "在合同履行情况下商标权受到保护 变体2",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 11
+  },
+  {
+    "text": "在知识产权保护情况下著作权权受到保护 变体3",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 12
+  },
+  {
+    "text": "在劳动关系情况下专利权受到保护 变体4",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 11
+  },
+  {
+    "text": "在劳动关系情况下商标权受到保护 变体5",
+    "label": 2,
+    "source": "synthetic",
+    "word_count": 11
+  }
+]

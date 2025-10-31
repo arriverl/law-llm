@@ -1,0 +1,57 @@
+# 核心框架
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# 数据库相关 - MongoDB版本
+motor==3.3.2  # MongoDB异步驱动
+pymongo==4.6.0  # MongoDB同步驱动
+mongoengine==0.27.0  # MongoDB ODM
+# 保留SQLAlchemy用于关系型数据（可选）
+sqlalchemy==2.0.23
+alembic==1.13.1
+
+# 缓存和任务队列
+redis==5.0.1
+celery==5.3.4
+
+# AI模型相关 - Windows兼容版本
+transformers>=4.35.0,<4.37.0  # 使用稳定版本
+torch>=1.13.0,<2.0.0  # 使用兼容的PyTorch版本
+torchvision>=0.14.0,<0.15.0  # 匹配torch版本
+numpy>=1.24.3
+pandas>=2.1.4
+scikit-learn>=1.3.2
+datasets>=2.14.0  # Hugging Face数据集
+accelerate>=0.20.0  # 训练加速
+
+# LawLLM-7B 相关依赖 - Windows兼容版本
+# vllm>=0.2.0  # vLLM 推理引擎 (Windows安装复杂，暂时注释)
+# auto-gptq>=0.4.0  # GPTQ 量化 (Windows兼容性问题)
+optimum>=1.14.0  # 模型优化
+
+# API和网络
+openai==1.3.7
+httpx==0.25.2
+requests==2.31.0
+
+# 认证和安全
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+# 修复jose库兼容性问题
+PyJWT==2.8.0
+
+# 工具库
+python-dotenv==1.0.0
+aiofiles==23.2.1
+jinja2==3.1.2
+beautifulsoup4==4.12.2
+lxml==4.9.3
+jieba==0.42.1
+python-docx==0.8.11  # 修复docx包冲突
+PyPDF2==3.0.1  # PDF处理
+
+# Windows特定优化
+# 如果仍需要PostgreSQL，可以单独安装：
+# pip install psycopg2-binary --only-binary=all
